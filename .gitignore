@@ -14,8 +14,8 @@ credentials.local.json
 config.local.json
 *.local.json
 
-# exclude lib
-lib
+# exclude app (it gets built)
+app
 
 # exclude generated "binaries"
 bin/*.js
